@@ -33,7 +33,7 @@ Simply open a bitcoin wallet at yenten.me and enter the following details into t
 RPC Host: yenten.me
 RPC Port: 443  
 RPC Path: paymentGateway/
-RPC User: <walletuser>+<supportpin> 
+RPC User: walletuser+supportpin 
 RPC Password: anything - not used
 YenTenCoin Conversion Currency: Select Euro, Pound or USD  
 QR Code: Google API  
